@@ -2,8 +2,7 @@ Git Course
 
 
 
-Teste final do Readme.
+Esse é um teste para aplicação da atualização no GitHub pelo command.
 
 
-
-Teste.
+Atenciosamente!
